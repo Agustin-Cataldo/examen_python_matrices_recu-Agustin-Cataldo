@@ -31,4 +31,9 @@ while opcion!= 6:
     if opcion == 4:
         res= matriz[0][0] * matriz[0][1]* matriz[0][2]* matriz[1][0]* matriz[1][1]* matriz[1][2]* matriz[2][0]* matriz[2][1]* matriz[2][2]
     if opcion == 5: 
-        next
+        print("Matriz transpuesta:")
+        for c in range(3):
+            fila_transpuesta = []
+            for f in range(3):
+                fila_transpuesta.append(matriz[f][c])
+            print(fila_transpuesta)
