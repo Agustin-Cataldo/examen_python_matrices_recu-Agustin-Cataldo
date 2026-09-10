@@ -14,6 +14,7 @@ repositorio y luego clonar su fork, realizar los cambios y hacer un push a su pr
 
 ## LLENAR ANTES DE COMENZAR (Deberá llenarse en el fork)
 
-Nombre:
-Apellido:
-Fecha:
+Nombre:Agustin
+Apellido:Cataldos
+Fecha:10/9/2026
+"# Agustin-Cataldo-3ro-I" 
